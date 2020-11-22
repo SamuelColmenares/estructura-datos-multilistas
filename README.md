@@ -1,3 +1,13 @@
+## Description
+
+Tarea de la unidad dos de la materia `Estructura de datos` - UNIREMINGTON.
+
+- Elaborado por:  Samuel Giovanni Colmenares Patiño
+- Profesor: Nixon Duarte Acosta
+- Fecha: 27 noviembre 2020.
+- IDE Usado: Visual Studio Code
+- Java version: 11.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
